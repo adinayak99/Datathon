@@ -4,21 +4,21 @@ Repository for DSA Datathon
 GW Data Science Association Spring Datathon Guidelines
 
 1. Dates:
-● GitHub Repository with the Report due at 5 PM on Thursday, March 30th
-● In-Person Presentation on Saturday, April 1st at 11 AM
+● GitHub Repository with the Report due at 5 PM on Thursday, March 30th<br>
+● In-Person Presentation on Saturday, April 1st at 11 AM<br>
 ● Attend Data Science Week events to earn bonus points. Each team/participant can
 receive up to 10 bonus points and you can find information about location and
-times on our instagram @gwu_dsa
-○ Trivia Night (March 27, 2023): +2 points
+times on our instagram @gwu_dsa<br>
+○ Trivia Night (March 27, 2023): +2 points<br>
 ○ Data Science Working Session (March 28, 2023): +3 points<br>
 ■ Please Read: This time is provided for you to meet with your
 group as well as asking questions about setup/deliverables. We
 encourage you to come to this working session because we will
-have a professor there to assist you.
+have a professor there to assist you.<br>
 
-○ Game Night & Networking (March 29, 2023): +3 points
-○ DSA Logo Competition (March 30, 2023): +2 points
-○ Guest Speaker Event (March 31, 2023): +5 points
+○ Game Night & Networking (March 29, 2023): +3 points<br>
+○ DSA Logo Competition (March 30, 2023): +2 points<br>
+○ Guest Speaker Event (March 31, 2023): +5 points<br>
 
 2. Data:
 You can access the dataset for Datathon at this link
