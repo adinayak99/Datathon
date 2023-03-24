@@ -10,7 +10,7 @@ GW Data Science Association Spring Datathon Guidelines
 receive up to 10 bonus points and you can find information about location and
 times on our instagram @gwu_dsa
 ○ Trivia Night (March 27, 2023): +2 points
-○ Data Science Working Session (March 28, 2023): +3 points
+○ Data Science Working Session (March 28, 2023): +3 points<br>
 ■ Please Read: This time is provided for you to meet with your
 group as well as asking questions about setup/deliverables. We
 encourage you to come to this working session because we will
