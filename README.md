@@ -24,7 +24,7 @@ have a professor there to assist you.<br>
 You can access the dataset for Datathon at this link: https://www.kaggle.com/datasets/adityakadiwal/water-potability?resource=download
 3. Problem Statement:
 ● We are interested in identifying, understanding, and predicting the drinkability of
-water based on its features. Your task is:
+water based on its features. Your task is:<br>
 ○ To identify pattern, and show how different water qualities may be related
 ○ Build a model that predicts drinkability of water when the qualities change
 ● Please cite any additional research done to support your conclusion
