@@ -21,7 +21,7 @@ have a professor there to assist you.<br>
 ○ Guest Speaker Event (March 31, 2023): +5 points<br>
 
 2. Data:
-You can access the dataset for Datathon at this link: https://www.kaggle.com/datasets/adityakadiwal/water-potability?resource=download
+You can access the dataset for Datathon at this [link](https://www.kaggle.com/datasets/adityakadiwal/water-potability?resource=download)
 3. Problem Statement:
 ● We are interested in identifying, understanding, and predicting the drinkability of
 water based on its features. Your task is:<br>
