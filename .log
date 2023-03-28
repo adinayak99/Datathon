@@ -142,3 +142,22 @@
 2023-03-27 18:53:22,315 [47028] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
 2023-03-27 18:53:22,316 [47028] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
 2023-03-27 18:53:22,317 [47028] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-03-27 19:31:35,856 [40852] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-03-27 19:31:35,857 [40852] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-03-27 19:31:35,858 [40852] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-03-27 19:31:35,862 [40852] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-03-27 19:31:35,863 [40852] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-03-27 19:31:35,864 [40852] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-03-27 19:41:47,747 [40852] DEBUG    matplotlib.colorbar:847: [JupyterRequire] locator: <matplotlib.ticker.AutoLocator object at 0x000002201953A550>
+2023-03-27 20:52:09,489 [40852] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-03-27 20:52:09,490 [40852] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-03-27 20:52:09,491 [40852] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-03-27 20:52:09,495 [40852] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-03-27 20:52:09,496 [40852] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-03-27 20:52:09,497 [40852] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-03-27 22:18:37,400 [40852] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-03-27 22:18:37,401 [40852] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-03-27 22:18:37,402 [40852] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-03-27 22:18:37,408 [40852] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-03-27 22:18:37,410 [40852] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-03-27 22:18:37,412 [40852] DEBUG    root:97: [JupyterRequire] Registering comm targets.
