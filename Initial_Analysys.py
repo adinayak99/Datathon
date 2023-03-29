@@ -2,6 +2,7 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 from skimpy import skim
+import seaborn as sns
 
 df = pd.read_csv('water_potability.csv')
 
@@ -45,3 +46,14 @@ df.Trihalomethanes.fillna(value=Tri_mean,inplace=True)
 skim(df)
 
 df.to_csv('Cleaned_data.csv')
+
+sns.boxplot(df.ph)
+plt.show()
+
+# Outlier treatment - Since this is a synthetic data, no real significance and also because the features are uncorrelated, we will clip the outlier values to better fit the model.
+
+# Target variable distribution - Precision or recall? for accuracy.
+
+# Standardized scaling for the features.
+
+#
