@@ -4522,3 +4522,15 @@
 2023-03-29 13:29:58,528 [76484] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
 2023-03-29 13:29:58,530 [76484] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
 2023-03-29 13:29:58,531 [76484] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-03-29 14:43:54,538 [76484] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-03-29 14:43:54,539 [76484] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-03-29 14:43:54,540 [76484] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-03-29 14:43:54,545 [76484] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-03-29 14:43:54,546 [76484] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-03-29 14:43:54,547 [76484] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-03-29 14:48:20,535 [76484] DEBUG    matplotlib.colorbar:847: [JupyterRequire] locator: <matplotlib.ticker.AutoLocator object at 0x0000020455B26250>
+2023-03-29 14:48:20,568 [76484] DEBUG    matplotlib.axes._base:2994: [JupyterRequire] top of Axes not in the figure, so title not moved
+2023-03-29 14:48:20,642 [76484] DEBUG    matplotlib.axes._base:2994: [JupyterRequire] top of Axes not in the figure, so title not moved
+2023-03-29 14:48:20,691 [76484] DEBUG    matplotlib.axes._base:2994: [JupyterRequire] top of Axes not in the figure, so title not moved
+2023-03-29 14:48:20,777 [76484] DEBUG    matplotlib.axes._base:2994: [JupyterRequire] top of Axes not in the figure, so title not moved
+2023-03-29 14:48:20,848 [76484] DEBUG    matplotlib.axes._base:2994: [JupyterRequire] top of Axes not in the figure, so title not moved
