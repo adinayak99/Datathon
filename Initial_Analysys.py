@@ -47,8 +47,6 @@ skim(df)
 
 df.to_csv('Cleaned_data.csv')
 
-
-
 # Outlier treatment - Since this is a synthetic data, no real significance and also because the features are uncorrelated, we will clip the outlier values to better fit the model.
 # https://datascience.stackexchange.com/questions/65802/for-outliers-treatment-clipping-winsorizing-or-removing
 # Performing a 90% windorization window
@@ -136,7 +134,6 @@ df['Organic_carbon'] = df['Organic_carbon'].clip(lower = Q1, upper = Q2)
 sns.boxplot(df.Organic_carbon)
 plt.show()
 
-
 # Checking for outliers in Trihalomethanes
 sns.boxplot(df.Trihalomethanes)
 plt.show()
@@ -161,7 +158,7 @@ df['Turbidity'] = df['Turbidity'].clip(lower = Q1, upper = Q2)
 sns.boxplot(df.Turbidity)
 plt.show()
 
-df.to_csv('Outlier_treated_data')
+df.to_csv('Outlier_treated_data.csv')
 
 # Target variable distribution - Precision or recall? for accuracy.
 
