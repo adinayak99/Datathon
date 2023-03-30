@@ -4618,3 +4618,28 @@
 2023-03-30 00:16:59,934 [80724] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
 2023-03-30 00:16:59,935 [80724] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
 2023-03-30 00:16:59,935 [80724] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-03-30 00:32:45,005 [87392] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-03-30 00:32:45,005 [87392] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-03-30 00:32:45,006 [87392] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-03-30 00:32:45,007 [87392] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-03-30 00:32:45,008 [87392] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-03-30 00:32:45,008 [87392] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-03-30 00:35:56,604 [86692] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-03-30 00:35:56,604 [86692] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-03-30 00:35:56,604 [86692] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-03-30 00:35:56,606 [86692] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-03-30 00:35:56,607 [86692] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-03-30 00:35:56,607 [86692] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-03-30 01:09:24,658 [86692] DEBUG    matplotlib.axes._base:2994: [JupyterRequire] top of Axes not in the figure, so title not moved
+2023-03-30 01:09:24,713 [86692] DEBUG    matplotlib.axes._base:2994: [JupyterRequire] top of Axes not in the figure, so title not moved
+2023-03-30 01:09:24,768 [86692] DEBUG    matplotlib.axes._base:2994: [JupyterRequire] top of Axes not in the figure, so title not moved
+2023-03-30 01:09:24,822 [86692] DEBUG    matplotlib.axes._base:2994: [JupyterRequire] top of Axes not in the figure, so title not moved
+2023-03-30 01:09:24,877 [86692] DEBUG    matplotlib.axes._base:2994: [JupyterRequire] top of Axes not in the figure, so title not moved
+2023-03-30 01:09:24,935 [86692] DEBUG    matplotlib.axes._base:2994: [JupyterRequire] top of Axes not in the figure, so title not moved
+2023-03-30 01:09:24,989 [86692] DEBUG    matplotlib.axes._base:2994: [JupyterRequire] top of Axes not in the figure, so title not moved
+2023-03-30 01:09:25,053 [86692] DEBUG    matplotlib.axes._base:2994: [JupyterRequire] top of Axes not in the figure, so title not moved
+2023-03-30 01:09:25,110 [86692] DEBUG    matplotlib.axes._base:2994: [JupyterRequire] top of Axes not in the figure, so title not moved
+2023-03-30 01:09:25,129 [86692] DEBUG    matplotlib.axes._base:2994: [JupyterRequire] top of Axes not in the figure, so title not moved
+2023-03-30 01:09:25,131 [86692] DEBUG    matplotlib.axes._base:2994: [JupyterRequire] top of Axes not in the figure, so title not moved
+2023-03-30 01:09:25,134 [86692] DEBUG    matplotlib.axes._base:2994: [JupyterRequire] top of Axes not in the figure, so title not moved
+2023-03-30 01:09:25,138 [86692] DEBUG    matplotlib.axes._base:2994: [JupyterRequire] top of Axes not in the figure, so title not moved
